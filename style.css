@@ -26,9 +26,14 @@ nav ul li {
 }
 
 nav a {
-  text-decoration: none;
+  text-decoration: none;;
   color: #007bff;
   font-size: 18px;
+}
+
+nav hover {
+  text-decoration: overline;
+  color: #0056b3;
 }
 
 #header a{
